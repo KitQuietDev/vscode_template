@@ -14,3 +14,5 @@ Pay particular attention to:
 
 If a request conflicts with the constitution, the constitution wins.
 
+Refer to [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) before any pull request is initiated, either automatically or at user request.  No exceptions.
+
